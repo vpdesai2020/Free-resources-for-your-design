@@ -12,7 +12,7 @@ We're talking free fonts,colors, templates, libraries, tools and mockups or vect
 
 ## Fonts
 
->List of websites provides open-source fonts that are free to use
+>List of websites provides open-source fonts those are free to use
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
