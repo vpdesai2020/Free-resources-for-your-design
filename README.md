@@ -22,5 +22,5 @@ We're talking free fonts,colors, templates, libraries, tools and mockups or vect
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥</a></b>
+    <b><a href="#table-of-contents">:arrow_double_up:</a></b>
 </div>
