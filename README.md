@@ -27,7 +27,7 @@ We're talking free fonts,colors, templates, libraries, tools and mockups or vect
 
 ## Colors
 
->Here you can find the best website colors for you. and I have list some of the exact color codes.
+>Here you can find the best website colors for you.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 | --------------------------------------------------------------- |
@@ -37,10 +37,7 @@ We're talking free fonts,colors, templates, libraries, tools and mockups or vect
 | [Coolors](https://coolors.co) |
 | [ColorSpace](https://mycolor.space/) |
 | [Colors & Fonts](https://www.colorsandfonts.com/) |
-| --------------------------------------------------------------- |
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+
 
 <div align="right">
     <b><a href="#table-of-contents">:arrow_double_up:</a></b>
