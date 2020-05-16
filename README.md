@@ -42,3 +42,23 @@ We're talking free fonts,colors, templates, libraries, tools and mockups or vect
 <div align="right">
     <b><a href="#table-of-contents">:arrow_double_up:</a></b>
 </div>
+
+## Icons
+
+>List of websites provides Icons including png, svg and more
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+| ----------------------- | 
+| [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/)|
+| [Simple Icons](https://simpleicons.org/)| 
+| [Feather Icons](https://feathericons.com/)| 
+| [Flat Icon](https://www.flaticon.com/)|
+| [Tabler Icons](https://tablericons.com/)| 
+| [Icons8](https://icons8.com/)| 
+| [Linear Icons](https://linearicons.com/)|
+| [Entypo](http://www.entypo.com/)|
+
+<div align="right">
+    <b><a href="#table-of-contents">:arrow_double_up:</a></b>
+</div>
+
