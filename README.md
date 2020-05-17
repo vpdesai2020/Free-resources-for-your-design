@@ -8,6 +8,7 @@ We're talking free fonts,colors, templates, libraries, tools and mockups or vect
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [HTML & CSS Templates](#html--css-templates)
 
 
 ## Fonts
@@ -62,3 +63,21 @@ We're talking free fonts,colors, templates, libraries, tools and mockups or vect
     <b><a href="#table-of-contents">:arrow_double_up:</a></b>
 </div>
 
+## HTML & CSS Templates
+
+>open-source templates
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+| ----------------------- | 
+| [FreeHTML5](https://freehtml5.co/)|
+| [HTML5Up](https://html5up.net/)|
+| [HTML5xCSS3](https://www.html5xcss3.com/)| 
+| [Zerotheme](https://www.zerotheme.com/)|
+| [Templatemo](https://templatemo.com/)|
+| [Start Bootstrap](https://startbootstrap.com/)|
+| [Templated.co](https://templated.co/)| 
+| [StyleShout](https://www.styleshout.com/free-templates/)|
+
+<div align="right">
+    <b><a href="#table-of-contents">:arrow_double_up:</a></b>
+</div>
