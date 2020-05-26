@@ -10,6 +10,7 @@ We're talking free fonts,colors, templates, libraries, tools and mockups or vect
 - [Icons](#icons)
 - [HTML & CSS Templates](#html--css-templates)
 - [Javascript Animation](#javascript-animation)
+- [Image Compresser](#Image-compresser)
 
 
 ## Fonts
@@ -94,6 +95,17 @@ We're talking free fonts,colors, templates, libraries, tools and mockups or vect
 | [Velocity.js](http://velocityjs.org/)| 
 | [chocolat.js](http://chocolat.insipi.de/)|
 | [lax.js](https://github.com/alexfoxy/laxxx)| 
+
+<div align="right">
+    <b><a href="#table-of-contents">:arrow_double_up:</a></b>
+</div>
+## Image Compresser
+
+>Here you can find the best website colors for compress images
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+| ----------------------- | 
+| [TinyPNG](https://tinypng.com/)|
 
 <div align="right">
     <b><a href="#table-of-contents">:arrow_double_up:</a></b>
