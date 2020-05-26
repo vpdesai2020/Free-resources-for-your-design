@@ -103,7 +103,7 @@ We're talking free fonts,colors, templates, libraries, tools and mockups or vect
 
 ## Image Compresser
 
->Here you can find the best website colors for compress images
+>Here you can find the best website for compress images
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 | ----------------------- | 
