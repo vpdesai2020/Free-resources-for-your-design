@@ -108,6 +108,8 @@ We're talking free fonts,colors, templates, libraries, tools and mockups or vect
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 | ----------------------- | 
 | [TinyPNG](https://tinypng.com/)|
+| [Squoosh.app](https://squoosh.app/)|
+| [CompressJPEG](https://compressjpeg.com/)|
 
 <div align="right">
     <b><a href="#table-of-contents">:arrow_double_up:</a></b>
